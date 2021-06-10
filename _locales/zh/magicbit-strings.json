@@ -33,5 +33,5 @@
     "magicbit.rgb|block": "板載RGB",
     "IrRemote|block": "紅外線",
     "IrRemote.IrRemote_init|block": "紅外線搖控器初始化引脚|%pin",
-    "IrRemote.onPressEvent|block": "当紅外線搖控器按键|%btn|按下"
+    "IrRemote.onPressEvent|block": "當紅外線搖控器按键|%btn|按下"
 }
