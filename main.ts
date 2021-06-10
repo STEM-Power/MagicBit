@@ -48,7 +48,7 @@ enum ColorEffect {
     flash = 0x03
 }
 
-//% color="#EE6A50" weight=10 icon="\uf013"
+//% color="#EE6A50" weight=10 icon="\uf1b9"
 namespace magicbit {
     const PCA9685_ADDRESS = 0x40
     const MODE1 = 0x00
